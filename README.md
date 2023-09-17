@@ -6,6 +6,12 @@ The goal of this project was to create a schedule on a website that can be inter
 
 N/A
 
+# Page Link
+[page-link](https://zxncho.github.io/05.02-challenge/)
+
+# View
+<img src="./assets/images/webpage.png"
+
 ## Usage
 
 This webpage will be used to name tasks, apply them to an hourly time slot and save the events locally to access later. 
