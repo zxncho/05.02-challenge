@@ -10,7 +10,7 @@ N/A
 [page-link](https://zxncho.github.io/05.02-challenge/)
 
 # View
-<img src="./assets/images/webpage.png"
+![Webpage screenshot](./assets/images/webpage.png)
 
 ## Usage
 
